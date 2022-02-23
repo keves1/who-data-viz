@@ -1,0 +1,3 @@
+## WHO Mortality Database Visualization
+
+The WHO Mortality database, available at https://www.who.int/data/data-collection-tools/who-mortality-database, is a compilation of annual data reported to WHO by countries around the world from 1950 to 2019. This project includes the script `create_db.py`, which creates a SQLite database from the ICD-10 data files available for download from the WHO website. The jupyter notebook demonstrates using several SQL queries to visualize and gain insights from the data.
